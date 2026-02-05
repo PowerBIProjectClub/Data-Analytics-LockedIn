@@ -1,4 +1,4 @@
-# Assessment 6 
+# Homework 6 - SQL
 
 ## Database
 **Parch & Posey**
