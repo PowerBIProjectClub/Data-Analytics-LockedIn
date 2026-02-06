@@ -116,7 +116,11 @@ Please submit the following:
 
 ## Data Access Instructions
 
-You will be given an **AdventureWorks `.bak` file**.
+Here's link on how to access and install **AdventureWorks `.bak` file**.
+
+[How to Download and Install the AdventureWorks Database in SQL Server](https://www.geeksforgeeks.org/installation-guide/how-to-download-and-install-adventureworks-database-in-sql/)
+
+
 
 ### How to Access the Data
 
